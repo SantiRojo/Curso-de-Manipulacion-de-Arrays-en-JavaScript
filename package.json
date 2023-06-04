@@ -1,0 +1,22 @@
+{
+  "name": "curso-de-manipulacion-de-arrays-en-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiRojo/Curso-de-Manipulacion-de-Arrays-en-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiRojo/Curso-de-Manipulacion-de-Arrays-en-JavaScript/issues"
+  },
+  "homepage": "https://github.com/SantiRojo/Curso-de-Manipulacion-de-Arrays-en-JavaScript#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
