@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SantiRojo/Curso-de-Manipulacion-de-Arrays-en-JavaScript#readme",
   "dependencies": {
+    "date-fns": "^2.30.0",
     "http-server": "^14.1.1"
   }
 }
